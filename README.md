@@ -6,7 +6,7 @@
 <p align="center">
 <img src="logo.png" width="1000"/>
 </p>
----
+
 
 ## 1. 개 요 
 OTT 서비스는 현대인의 필수 생활앱으로 사용되고있다.
