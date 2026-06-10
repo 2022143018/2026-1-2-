@@ -112,6 +112,13 @@ if __name__ == "__main__":
     import step5_6_inference_analysis
     step5_6_inference_analysis.main()
 
+        print("=" * 60)
+    print("  STEP7_ott_subscriber: 년도별 OTT구독자 증가/감소 그래프 수치")
+    print("=" * 60)
+    import step7_ott_subscriber
+    step7_ott_subscriber.main()
+
+    
     print()
     print("=" * 60)
     print("  전체 파이프라인 실행 완료!")
