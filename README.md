@@ -3,7 +3,7 @@
 ---
 <!--!!
 -->
-<img src="logo.png" width="300"/>
+<div style="text-align: center;"><img src="logo.png" width="300"/>
 ---
 
 ## 1. 개 요 
