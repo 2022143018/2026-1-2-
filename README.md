@@ -3,7 +3,9 @@
 ---
 <!--!!
 -->
-<div style="text-align: center;"><img src="logo.png" width="1000"/>
+<p align="center">
+<img src="logo.png" width="1000"/>
+</p>
 ---
 
 ## 1. 개 요 
